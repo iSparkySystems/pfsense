@@ -6,6 +6,7 @@ api16-core-va.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
 api16-normal-c-useast2a.tiktokv.com
 api16-va.tiktokv.com
+api19-core-c-alisg.tiktokv.com
 api19-core-c-useast1a.tiktokv.com
 api19-core-c-useast2a.tiktokv.com
 api19-core-va.tiktokv.com
@@ -19,6 +20,7 @@ log-va.tiktokv.com
 mon-va.tiktokv.com
 mon.tiktokv.com
 tiktokv.com
+frontier.tiktokv.com
 verification-va.tiktokv.com
 webcast-va.tiktokv.com
 xlog-va.tiktokv.com
@@ -104,6 +106,7 @@ byteoversea.net
 quic-normal-lb-gcp.byteoversea.net
 security-lb-maliva.byteoversea.net
 api2-16-h2.musical.ly.edgekey.net
+tiktok.bytedance.map.fastly.net
 bytedance.map.fastly.net
 musically-alternate.app.link
 musically.app.link
