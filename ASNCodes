@@ -21,7 +21,11 @@ AS36039 [ GOOGLE, US ]
 AS394507 [ GOOGLE, US ]
 AS394639 [ GOOGLE, US ]
 
+# Google IP List
 https://www.gstatic.com/ipranges/goog.json
+
+# Amazon AWS List
+https://ip-ranges.amazonaws.com/ip-ranges.json
 
 #IP White List
 178.162.131.118 # PFSense Forum
