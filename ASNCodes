@@ -28,6 +28,7 @@ DNSBL Whitelist
 #Google
 .google.com
 www.google.com
+analytics.google.com
 drive.google.com
 .googleusercontent.com
 
