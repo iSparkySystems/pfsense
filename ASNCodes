@@ -17,6 +17,7 @@ https://www.gstatic.com/ipranges/goog.json
 #IP List
 178.162.131.118 # PFSense Forum
 140.82.121.4 # Github
-13.232.67.211 # Atera
-13.232.67.210 # Atera
+13.232.67.211 # Atera Agent
+13.232.67.210 # Atera Heartbeat
+20.93.231.247 # Atera Help Desk
 51.91.38.34 # Proxmox Updates
