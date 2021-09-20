@@ -15,6 +15,12 @@ AS41231 [ CANONICAL-AS, GB ]
 AS36459 [ GITHUB, US ]
 
 # Google Workspace
+AS15169 [ GOOGLE, US ]
+AS22859 [ GOOGLE, US ]
+AS36039 [ GOOGLE, US ]
+AS394507 [ GOOGLE, US ]
+AS394639 [ GOOGLE, US ]
+
 https://www.gstatic.com/ipranges/goog.json
 
 #IP White List
@@ -23,6 +29,7 @@ https://www.gstatic.com/ipranges/goog.json
 13.232.67.210 # Atera Heartbeat
 20.93.231.247 # Atera Help Desk
 167.99.81.131 # Pandle Accounting
+35.199.18.18 # Pandle after login
 51.91.38.34 # Proxmox Updates
 
 DNSBL Whitelist
