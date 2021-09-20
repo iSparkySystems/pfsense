@@ -22,6 +22,7 @@ https://www.gstatic.com/ipranges/goog.json
 13.232.67.211 # Atera Agent
 13.232.67.210 # Atera Heartbeat
 20.93.231.247 # Atera Help Desk
+167.99.81.131 # Pandle Accounting
 51.91.38.34 # Proxmox Updates
 
 DNSBL Whitelist
@@ -37,6 +38,3 @@ drive.google.com
 github.com
 .github.com
 
-#Pandle
-www.pandle.com
-.pandle.com
