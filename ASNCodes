@@ -39,15 +39,32 @@ https://ip-ranges.amazonaws.com/ip-ranges.json
 167.99.81.131 # Pandle Accounting
 35.199.18.18 # Pandle after login
 51.91.38.34 # Proxmox Updates
+213.71.30.137 # Android Updates
 
 DNSBL Whitelist
 # Google
+.analytics.google.com
+.android.com
+.appspot.com
+.clients.google.com
 .google.com
-www.google.com
+.google-analytics.com
 .googleapis.com
-analytics.google.com
-drive.google.com
 .googleusercontent.com
+.googlezip.net
+.gstatic.com
+.ggpht.com
+.gvt1.com
+.gvt2.com
+.gvt3.com
+
+# Github
+.github.com
+github.com
+
+# Pandle
+.pandle.com
+www.pandle.com
 
 # Github
 github.com
