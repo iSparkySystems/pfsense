@@ -25,9 +25,11 @@ https://www.gstatic.com/ipranges/goog.json
 51.91.38.34 # Proxmox Updates
 
 DNSBL Whitelist
-google.com
+#Google
+.google.com
 www.google.com
 drive.google.com
+
 # Github
 github.com
 .github.com
