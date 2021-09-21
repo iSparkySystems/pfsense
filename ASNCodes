@@ -23,10 +23,20 @@ AS394507 [ GOOGLE, US ]
 AS394639 [ GOOGLE, US ]
 
 # Google IP List
-https://www.gstatic.com/ipranges/goog.json
+# https://www.gstatic.com/ipranges/goog.json
 
 # Office 365
 https://endpoints.office.com/endpoints/worldwide?noipv6&ClientRequestId=b10c5ed1-bad1-445f-b386-b919946339a7
+
+# Microsoft Teams
+AS8068 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8069 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8070 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8071 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8072 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8073 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8074 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
+AS8075 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 
 # Amazon AWS List
 https://ip-ranges.amazonaws.com/ip-ranges.json
