@@ -22,12 +22,6 @@ AS36039 [ GOOGLE, US ]
 AS394507 [ GOOGLE, US ]
 AS394639 [ GOOGLE, US ]
 
-# Google IP List
-# https://www.gstatic.com/ipranges/goog.json
-
-# Office 365
-https://endpoints.office.com/endpoints/worldwide?noipv6&ClientRequestId=b10c5ed1-bad1-445f-b386-b919946339a7
-
 # Microsoft Teams / Skype
 AS8068 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 AS8069 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
@@ -38,49 +32,11 @@ AS8073 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 AS8074 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 AS8075 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 
-# Amazon AWS List
-https://ip-ranges.amazonaws.com/ip-ranges.json
-
 # Netflix
 AS2906 [ AS-SSI, US ]
 AS40027 [ NETFLIX-ASN, US ]
 
-# IP White List
-178.162.131.118 # PFSense Forum
-13.232.67.211 # Atera Agent
-13.232.67.210 # Atera Heartbeat
-20.93.231.247 # Atera Help Desk
-167.99.81.131 # Pandle Accounting
-35.199.18.18 # Pandle after login
-51.91.38.34 # Proxmox Updates
-213.71.30.137 # Android Updates
 
-DNSBL Whitelist Wildcard
-# Google
-.analytics.google.com
-.android.com
-omahaproxy.appspot.com
-.clients.google.com
-.google.com
-.google-analytics.com
-.googleapis.com
-.googleusercontent.com
-.googlezip.net
-.gstatic.com
-.ggpht.com
-.gvt1.com
-.gvt2.com
-.gvt3.com
 
-# Github
-.github.com
-github.com
 
-# Atera
-atera-agent-heartbeat.servicebus.windows.net
-app.atera.com
-
-# Pandle
-.pandle.com
-www.pandle.com
 
