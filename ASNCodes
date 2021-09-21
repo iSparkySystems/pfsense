@@ -55,7 +55,7 @@ AS40027 [ NETFLIX-ASN, US ]
 51.91.38.34 # Proxmox Updates
 213.71.30.137 # Android Updates
 
-DNSBL Whitelist
+DNSBL Whitelist Wildcard
 # Google
 .analytics.google.com
 .android.com
