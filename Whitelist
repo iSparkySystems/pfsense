@@ -26,6 +26,11 @@ app.atera.com
 # Pandle
 .pandle.com
 
+# Proxmox
+security.debian.org
+ftp.debian.org
+download.proxmox.com
+
 # IP White List
 178.162.131.118 # PFSense Forum
 13.232.67.211 # Atera Agent
