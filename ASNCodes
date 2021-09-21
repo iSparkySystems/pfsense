@@ -45,7 +45,7 @@ DNSBL Whitelist
 # Google
 .analytics.google.com
 .android.com
-.appspot.com
+omahaproxy.appspot.com
 .clients.google.com
 .google.com
 .google-analytics.com
@@ -62,11 +62,11 @@ DNSBL Whitelist
 .github.com
 github.com
 
+# Atera
+atera-agent-heartbeat.servicebus.windows.net
+app.atera.com
+
 # Pandle
 .pandle.com
 www.pandle.com
-
-# Github
-github.com
-.github.com
 
