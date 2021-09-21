@@ -28,7 +28,7 @@ AS394639 [ GOOGLE, US ]
 # Office 365
 https://endpoints.office.com/endpoints/worldwide?noipv6&ClientRequestId=b10c5ed1-bad1-445f-b386-b919946339a7
 
-# Microsoft Teams
+# Microsoft Teams / Skype
 AS8068 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 AS8069 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 AS8070 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
@@ -40,6 +40,10 @@ AS8075 [ MICROSOFT-CORP-MSN-AS-BLOCK, US ]
 
 # Amazon AWS List
 https://ip-ranges.amazonaws.com/ip-ranges.json
+
+# Netflix
+AS2906 [ AS-SSI, US ]
+AS40027 [ NETFLIX-ASN, US ]
 
 # IP White List
 178.162.131.118 # PFSense Forum
