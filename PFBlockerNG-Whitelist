@@ -40,3 +40,6 @@ security.debian.org
 forum.proxmox.com
 download.proxmox.com
 
+#DE Blocklist
+.blocklist.de
+
