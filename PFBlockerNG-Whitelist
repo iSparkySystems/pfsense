@@ -32,12 +32,3 @@ security.debian.org
 forum.proxmox.com
 download.proxmox.com
 
-# IP White List
-178.162.131.118 # PFSense Forum
-13.232.67.211 # Atera Agent
-13.232.67.210 # Atera Heartbeat
-20.93.231.247 # Atera Help Desk
-167.99.81.131 # Pandle Accounting
-35.199.18.18 # Pandle after login
-51.91.38.34 # Proxmox Updates
-213.71.30.137 # Android Updates
