@@ -23,8 +23,9 @@ www.youtube.com
 github.com
 
 # Atera
-atera-agent-heartbeat.servicebus.windows.net
 app.atera.com
+atera.trafficmanager.net
+atera-agent-heartbeat.servicebus.windows.net
 
 # Pandle
 .pandle.com
