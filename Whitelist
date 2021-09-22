@@ -27,8 +27,9 @@ app.atera.com
 .pandle.com
 
 # Proxmox
-security.debian.org
 ftp.debian.org
+security.debian.org
+forum.proxmox.com
 download.proxmox.com
 
 # IP White List
