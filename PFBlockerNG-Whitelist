@@ -24,8 +24,11 @@ github.com
 
 # Atera
 app.atera.com
+agent-api.atera.com
 atera.trafficmanager.net
+agentsapi.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
+atera-agent-api-eu.westeurope.cloudapp.azure.com
 
 # Splashtop
 .splashtop.com
@@ -34,12 +37,22 @@ st-v3-rmm-src-win-3461-g3.api.splashtop.com
 # Pandle
 .pandle.com
 
+# Plex
+pubsub.plex.tv
+pubsub.plex.bz
+
 # Proxmox
 ftp.debian.org
 security.debian.org
 forum.proxmox.com
 download.proxmox.com
 
-#DE Blocklist
-.blocklist.de
+# Amazon
+s3.amazonaws.com
+
+# blocklists.de
+lists.blocklist.de
+
+# Cloudflare
+1.1.1.1
 
