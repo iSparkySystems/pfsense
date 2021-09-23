@@ -1,17 +1,19 @@
-# PFSense
-178.162.131.118 # PFSense Forum
-# Pandle
-167.99.81.131 # Pandle Login
-35.199.18.18 # Pandle after login
-# TWT 
-172.16.181.6 # TWT NuVision
 # Android Phones
 213.71.30.137 # Play Store
 # Blocklists blocked by GeoIP
 185.21.103.31 # Blocklist DE Webserver 3
+# FreePBX
+199.102.239.57 # mirrorlist.sangoma.net
+# Google
+142.250.27.108 # smtp.gmail.com
+# Pandle
+167.99.81.131 # Pandle Login
+35.199.18.18 # Pandle after login
+# PFSense
+178.162.131.118 # PFSense Forum
+# TWT 
+172.16.181.6 # TWT NuVision
 # Proxmox
 51.91.38.34 # Proxmox Updates
 79.133.36.245 # Proxmox Forum
 151.101.174.132 # ftp.debian.org 
-# FreePBX
-199.102.239.57 # mirrorlist.sangoma.net
