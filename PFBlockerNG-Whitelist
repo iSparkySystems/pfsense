@@ -34,7 +34,7 @@ smtp.gmail.com
 .google.com
 .google-analytics.com
 .googleapis.com
-.googleusercontent.com
+#.googleusercontent.com
 .googlezip.net
 .gstatic.com
 .ggpht.com
@@ -48,6 +48,7 @@ www.youtube.com
 
 # Splashtop
 .splashtop.com
+marketing.splashtop.com
 st-v3-rmm-src-win-3461-g3.api.splashtop.com
 
 # Pandle
