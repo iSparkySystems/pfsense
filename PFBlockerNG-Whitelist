@@ -21,6 +21,9 @@ lists.blocklist.de
 .github.com
 github.com
 
+# FreePBX
+mirrorlist.sangoma.net
+
 # Google
 .analytics.google.com
 .android.com
