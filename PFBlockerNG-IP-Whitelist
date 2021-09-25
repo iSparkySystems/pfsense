@@ -16,4 +16,8 @@
 # Proxmox
 51.91.38.34 # Proxmox Updates
 79.133.36.245 # Proxmox Forum
-151.101.174.132 # ftp.debian.org 
+151.101.174.132 # ftp.debian.org
+# Samsung Galaxy Store
+52.209.145.70 # fe-pew1-ext-s4store-elb-729021174.eu-west-1.elb.amazonaws.com
+13.126.211.240 # sspapi-prd.samsungrs.com
+41.63.66.21 # samsapps.s.llnwi.net
