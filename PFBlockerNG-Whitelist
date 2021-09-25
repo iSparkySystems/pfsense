@@ -47,11 +47,6 @@ safebrowsing.google.com
 www.youtube.com
 .youtube.com
 
-# Splashtop
-.splashtop.com
-marketing.splashtop.com
-st-v3-rmm-src-win-3461-g3.api.splashtop.com
-
 # Pandle
 .pandle.com
 
@@ -66,6 +61,14 @@ forum.proxmox.com
 download.proxmox.com
 
 # Samsung Galaxy Store
-galaxy.store
 galaxystore.samsung.com
 az-dn.gw.samsungapps.com
+img.samsungapps.com
+samsapps.s.llnwi.net
+img.gw.samsungapps.com
+sspapi-prd.samsungrs.com
+
+# Splashtop
+.splashtop.com
+marketing.splashtop.com
+st-v3-rmm-src-win-3461-g3.api.splashtop.com
