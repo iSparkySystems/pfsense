@@ -178,17 +178,21 @@ forum.proxmox.com
 download.proxmox.com
 
 # Samsung Mobile Phones
-galaxystore.samsung.com
-az-dn.gw.samsungapps.com
-eu-auth2.samsungosp.com.
-img.samsungapps.com
-img.gw.samsungapps.com
-samsapps.s.llnwi.net
-sspapi-prd.samsungrs.com
-connectivitycheck.android.com
-android.clients.google.com
-clients3.google.com
-connectivitycheck.gstatic.com 
+.samsung.com
+.samsungapps.com
+.gw.samsungapps.com
+.samsungosp.com.
+.s.llnwi.net
+.samsungrs.com
+.android.com
+.clients.google.com
+.gstatic.com
+.samqaicongen.com
+.visionobjects.com
+.visionobjects.com
+.vo.llnwd.net
+.ospserver.net
+.samsung.cn
 
 # Sonarr
 services.sonarr.tv
