@@ -13,6 +13,7 @@
 178.162.131.118 # PFSense Forum
 # TWT 
 172.16.181.6 # TWT NuVision
+196.50.240.130 # TWT VPN
 # Proxmox
 51.91.38.34 # Proxmox Updates
 79.133.36.245 # Proxmox Forum
