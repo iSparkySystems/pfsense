@@ -11,6 +11,15 @@ atera-agent-api-eu.westeurope.cloudapp.azure.com
 # Amazon
 s3.amazonaws.com
 
+# Apple
+captive.apple.com
+gsp1.apple.com
+www.apple.com
+www.appleiphonecell.com
+appleid.apple.com
+itunes.apple.com
+s.mzstatic.com
+
 # blocklists.de
 lists.blocklist.de
 www.darklist.de
@@ -21,8 +30,53 @@ gdlp01.c-wss.com
 # Cloudflare
 1.1.1.1
 
+# Dropbox
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+
 # Github
 github.com
+
+# Facebook
+upload.facebook.com
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net 
+external-lhr3-1.xx.fbcdn.net 
+external-lhr4-1.xx.fbcdn.net 
+external-lhr5-1.xx.fbcdn.net 
+external-lhr6-1.xx.fbcdn.net 
+external-lhr7-1.xx.fbcdn.net 
+external-lhr8-1.xx.fbcdn.net 
+external-lhr9-1.xx.fbcdn.net 
+fbcdn-creative-a.akamaihd.net 
+scontent-lhr3-1.xx.fbcdn.net 
+scontent.xx.fbcdn.net 
+scontent.fgdl5-1.fna.fbcdn.net 
+graph.facebook.com 
+b-graph.facebook.com
+connect.facebook.com 
+cdn.fbsbx.com 
+api.facebook.com 
+edge-mqtt.facebook.com 
+mqtt.c10r.facebook.com 
+portal.fb.com 
+star.c10r.facebook.com 
+star-mini.c10r.facebook.com 
+b-api.facebook.com 
+fb.me bigzipfiles.facebook.com 
+l.facebook.com www.facebook.com 
+scontent-atl3-1.xx.fbcdn.net 
+static.xx.fbcdn.net 
+edge-chat.messenger.com 
+video.xx.fbcdn.net 
+external-ort2-1.xx.fbcdn.net 
+scontent-ort2-1.xx.fbcdn.net 
+edge-chat.facebook.com 
+scontent-mia3-1.xx.fbcdn.net
 
 # FreePBX
 mirrorlist.sangoma.net
@@ -34,7 +88,7 @@ omahaproxy.appspot.com
 .gmail.com
 .clients.google.com
 .google.com
-l.google.com
+.l.google.com
 .google-analytics.com
 .googleapis.com
 #.googleusercontent.com
@@ -48,12 +102,74 @@ l.google.com
 www.youtube.com
 .youtube.com
 
+# Microsoft
+msftncsi.com
+www.msftncsi.com
+ipv6.msftncsi.com
+officeclient.microsoft.com # Microsoft Office
+# Skype
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com m.hotmail.com
+sa.symcb.com s{1..5}.symcb.com 
+# XBox
+activity.windows.com
+client-s.gateway.messenger.live.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+clientconfig.passport.net 
+# Edge Browser Update
+msedge.api.cdp.microsoft.com
+# Windows 10 Updates
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+# Microsoft Store
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+# Microsoft Web Pages
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+# Microsoft Connectivity Check
+www.msftncsi.com
+
 # Pandle
 .pandle.com
 
 # Plex
+chtbl.com
+gravatar.com
+plex.tv
+proxy.plex.bz
+proxy02.pop.ord.plex.bz
 pubsub.plex.tv
 pubsub.plex.bz
+thetvdb.com
+tvdb2.plex.tv
+themoviedb.com
+cpms.spop10.ams.plex.bz 
+meta-db-worker02.pop.ric.plex.bz 
+meta.plex.bz 
+tvthemes.plexapp.com.cdn.cloudflare.net 
+tvthemes.plexapp.com 
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+meta.plex.tv cpms35.spop10.ams.plex.bz proxy.plex.tv
+metrics.plex.tv pubsub.plex.tv status.plex.tv
+www.plex.tv 
+node.plexapp.com 
+nine.plugins.plexapp.com 
+staging.plex.tv 
+app.plex.tv 
+o1.email.plex.tv  
+o2.sg0.plex.tv 
+dashboard.plex.tv
 
 # Proxmox
 ftp.debian.org
@@ -69,7 +185,23 @@ img.samsungapps.com
 img.gw.samsungapps.com
 samsapps.s.llnwi.net
 sspapi-prd.samsungrs.com
+connectivitycheck.android.com
+android.clients.google.com
+clients3.google.com
+connectivitycheck.gstatic.com 
+
+# Sonarr
+services.sonarr.tv
+skyhook.sonarr.tv 
+download.sonarr.tv 
+apt.sonarr.tv 
+forums.sonarr.tv
 
 # Splashtop
 .splashtop.com
 .api.splashtop.com
+
+# Spotify
+api-tv.spotify.com
+spclient.wg.spotify.com 
+apresolve.spotify.com
