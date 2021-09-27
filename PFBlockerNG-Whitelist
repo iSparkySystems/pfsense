@@ -3,8 +3,8 @@
 # Atera
 app.atera.com
 agent-api.atera.com
-atera.trafficmanager.net
 agentsapi.trafficmanager.net
+atera.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
 atera-agent-api-eu.westeurope.cloudapp.azure.com
 
@@ -19,7 +19,6 @@ www.darklist.de
 1.1.1.1
 
 # Github
-.github.com
 github.com
 
 # FreePBX
@@ -30,12 +29,10 @@ mirrorlist.sangoma.net
 .android.com
 omahaproxy.appspot.com
 .gmail.com
-smtp.gmail.com
 .clients.google.com
 .google.com
 .google-analytics.com
 .googleapis.com
-play.googleapis.com
 #.googleusercontent.com
 .googlezip.net
 .gstatic.com
@@ -43,7 +40,6 @@ play.googleapis.com
 .gvt1.com
 .gvt2.com
 .gvt3.com
-safebrowsing.google.com
 
 www.youtube.com
 .youtube.com
@@ -73,5 +69,4 @@ sspapi-prd.samsungrs.com
 
 # Splashtop
 .splashtop.com
-marketing.splashtop.com
-st-v3-rmm-src-win-3461-g3.api.splashtop.com
+.api.splashtop.com
