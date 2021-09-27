@@ -15,6 +15,9 @@ s3.amazonaws.com
 lists.blocklist.de
 www.darklist.de
 
+# Cannon Printers
+gdlp01.c-wss.com
+
 # Cloudflare
 1.1.1.1
 
@@ -31,6 +34,7 @@ omahaproxy.appspot.com
 .gmail.com
 .clients.google.com
 .google.com
+l.google.com
 .google-analytics.com
 .googleapis.com
 #.googleusercontent.com
@@ -58,7 +62,6 @@ forum.proxmox.com
 download.proxmox.com
 
 # Samsung Mobile Phones
-app-measurement.com
 galaxystore.samsung.com
 az-dn.gw.samsungapps.com
 eu-auth2.samsungosp.com.
