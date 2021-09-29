@@ -1,24 +1,34 @@
 # Android Phones
 213.71.30.137 # Play Store
-# Blocklists blocked by GeoIP
-185.21.103.31 # Blocklist DE Webserver 3
-# FreePBX
-199.102.239.57 # mirrorlist.sangoma.net
-# Google
-142.250.27.108 # smtp.gmail.com
-# Pandle
-167.99.81.131 # Pandle Login
-35.199.18.18 # Pandle after login
-# PFSense
-178.162.131.118 # PFSense Forum
-# TWT 
-172.16.181.6 # TWT NuVision
-196.50.240.130 # TWT VPN
-# Proxmox
-51.91.38.34 # Proxmox Updates
-79.133.36.245 # Proxmox Forum
-151.101.174.132 # ftp.debian.org
-# Samsung Galaxy Store
+
+# Galaxy Store Testing
 52.209.145.70 # fe-pew1-ext-s4store-elb-729021174.eu-west-1.elb.amazonaws.com
 13.126.211.240 # sspapi-prd.samsungrs.com
 41.63.66.21 # samsapps.s.llnwi.net
+
+# Blocklists blocked by GeoIP
+185.21.103.31 # Blocklist DE Webserver 3
+
+# FreePBX
+199.102.239.57 # mirrorlist.sangoma.net
+199.102.239.92 # FreePBX Forums
+
+# Google
+142.250.27.108 # smtp.gmail.com
+
+# Pandle
+167.99.81.131 # Pandle Login
+35.199.18.18 # Pandle after login
+
+# PFSense
+178.162.131.118 # PFSense Forum
+
+# Proxmox
+51.91.38.34 # Proxmox Updates
+151.101.174.132 # Proxmox Updates
+79.133.36.252 # Proxmox Wiki
+79.133.36.245 # Proxmox Forum
+
+# TWT 
+172.16.181.6 # TWT NiVision
+196.50.240.13 # TWT VPN
