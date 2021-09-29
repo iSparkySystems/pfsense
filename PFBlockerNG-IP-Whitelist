@@ -16,6 +16,9 @@
 # Google
 142.250.27.108 # smtp.gmail.com
 
+# imgur
+151.101.12.193 # imgur
+
 # Pandle
 167.99.81.131 # Pandle Login
 35.199.18.18 # Pandle after login
@@ -32,3 +35,4 @@
 # TWT 
 172.16.181.6 # TWT NiVision
 196.50.240.13 # TWT VPN
+
