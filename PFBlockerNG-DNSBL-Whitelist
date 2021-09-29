@@ -1,5 +1,11 @@
 # DNSBL Whitelist
 
+# TWT VPN
+vpn.tiauto.co.za
+.tiauto.co.za
+.tiautobrands.co.za
+.tiautoinvestments.co.za
+
 # Atera
 app.atera.com
 agent-api.atera.com
@@ -32,7 +38,9 @@ github.com
 .github.com # Github Root Domain
 
 # FreePBX
+.freepbx.org
 .sangoma.net
+community.freepbx.org
 
 # Google
 .analytics.google.com
@@ -53,8 +61,16 @@ omahaproxy.appspot.com
 .gvt3.com
 .youtube.com
 
-# Microsoft Connectivity Check
-www.msftncsi.com
+# imgur
+imgur.com
+
+# Microsoft
+www.msftncsi.com # Microsoft Connectivity Check
+login.live.com
+loginmicrosoftonline.com #Microsoft Azure Active Directory
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
+
 
 # Pandle
 .pandle.com
@@ -99,4 +115,3 @@ www.msftncsi.com
 # Spotify
 .spotify.com
 .wg.spotify.com 
-
