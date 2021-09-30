@@ -52,7 +52,7 @@ omahaproxy.appspot.com
 .l.google.com
 .google-analytics.com
 .googleapis.com
-.googleusercontent.com
+# .googleusercontent.com # This domain are used for malware distribution
 .googlezip.net
 .gstatic.com
 .ggpht.com
