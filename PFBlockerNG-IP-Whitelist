@@ -7,7 +7,7 @@
 41.63.66.21 # samsapps.s.llnwi.net
 
 # Blocklists blocked by GeoIP
-185.21.103.31 # Blocklist DE Webserver 3
+185.21.103.31 # Blocklist DE
 
 # FreePBX
 199.102.239.57 # mirrorlist.sangoma.net
