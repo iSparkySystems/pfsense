@@ -26,6 +26,11 @@
 # PFSense
 178.162.131.118 # PFSense Forum
 
+# Plex
+45.118.132.58 # pubsub00.pop.sin.plex.bz
+139.162.20.120 # pubsub04.pop.sin.plex.bz
+172.104.173.210 # pubxub06.pop.sin.plex.bz
+
 # Proxmox
 51.91.38.34 # Proxmox Updates
 151.101.174.132 # Proxmox Updates
