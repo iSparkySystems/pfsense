@@ -33,6 +33,9 @@ gdlp01.c-wss.com
 1.1.1.3
 1.0.0.3
 
+# Debian
+ftp.debian.org
+
 # Github
 github.com
 .github.com # Github Root Domain
@@ -43,23 +46,31 @@ github.com
 community.freepbx.org
 
 # Google
-.analytics.google.com
-.android.com
-omahaproxy.appspot.com
-.gmail.com
-.clients.google.com
-.google.com
-.l.google.com
-.google-analytics.com
-.googleapis.com
+ampcid.google.com
+# .analytics.google.com
+# .android.com
+# omahaproxy.appspot.com
+gmail.com
+# .clients.google.com
+# .google.com
+dl.google.com
+dl-ssl.google.com
+drive.google.com
+id.google.com
+gmail.google.com
+mail.google.com
+# .l.google.com
+# .google-analytics.com
+# .googleapis.com
 # .googleusercontent.com # This domain are used for malware distribution
-.googlezip.net
-.gstatic.com
-.ggpht.com
-.gvt1.com
-.gvt2.com
-.gvt3.com
-.youtube.com
+# .googlezip.net
+# .gstatic.com
+# .ggpht.com
+# .gvt1.com
+# .gvt2.com
+# .gvt3.com
+# .youtube.com
+youtube.com
 
 # imgur
 imgur.com
@@ -93,7 +104,7 @@ upload2.fp.measure.office.com
 .samsung.cn
 .samsungapps.com
 .gw.samsungapps.com
-.samsungosp.com
+# .samsungosp.com
 .samqaicongen.com
 # .s.llnwi.net
 # .vo.llnwd.net
