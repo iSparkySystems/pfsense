@@ -35,6 +35,7 @@ gdlp01.c-wss.com
 
 # Debian
 ftp.debian.org
+security.debian.org
 
 # Github
 github.com
@@ -95,8 +96,7 @@ upload2.fp.measure.office.com
 .themoviedb.com
 
 # Proxmox
-.debian.org
-.proxmox.com
+download.proxmox.com
 
 # Samsung Mobile Phones
 .android.com
