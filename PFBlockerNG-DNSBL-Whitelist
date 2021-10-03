@@ -13,12 +13,12 @@ agentsapi.trafficmanager.net
 atera.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
 atera-agent-api-eu.westeurope.cloudapp.azure.com
-.atera.com # Atera Root Domain
+.atera.com 
 
 # Amazon
 s3.amazonaws.com
 
-# blocklists.de
+# Blocklists
 lists.blocklist.de
 www.darklist.de
 
@@ -39,7 +39,7 @@ security.debian.org
 
 # Github
 github.com
-.github.com # Github Root Domain
+.github.com
 
 # FreePBX
 .freepbx.org
@@ -47,32 +47,23 @@ github.com
 community.freepbx.org
 
 # Google
-ampcid.google.com
-# .analytics.google.com
-# .android.com
-# omahaproxy.appspot.com
+.android.com
+omahaproxy.appspot.com
 gmail.com
-# .clients.google.com
-# .google.com
-dl.google.com
-dl-ssl.google.com
-drive.google.com
-id.google.com
+.clients.google.com
+.google.com
 feeds.feedburner.com
-gmail.google.com
-mail.google.com
-# .l.google.com
-# .google-analytics.com
-# .googleapis.com
+.l.google.com
+.google-analytics.com
+.googleapis.com
 # .googleusercontent.com # This domain are used for malware distribution
-# .googlezip.net
-# .gstatic.com
-# .ggpht.com
-# .gvt1.com
-# .gvt2.com
-# .gvt3.com
-# .youtube.com
-youtube.com
+.googlezip.net
+.gstatic.com
+.ggpht.com
+.gvt1.com
+.gvt2.com
+.gvt3.com
+.youtube.com
 
 # imgur
 imgur.com
@@ -105,10 +96,10 @@ enterprise.proxmox.com
 .samsung.cn
 .samsungapps.com
 .gw.samsungapps.com
-# .samsungosp.com
+.samsungosp.com
 .samqaicongen.com
-# .s.llnwi.net
-# .vo.llnwd.net
+.s.llnwi.net
+.vo.llnwd.net
 .samsungrs.com
 .visionobjects.com
 .ospserver.net
