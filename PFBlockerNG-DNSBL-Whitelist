@@ -28,10 +28,8 @@ gdlp01.c-wss.com
 # Cloudflare
 1.1.1.1 # Pure DNS
 1.0.0.1
-
 1.1.1.2 # No Malware DNS
 1.0.0.2
-
 1.1.1.3 # No Malware or Adult Material DNS
 1.0.0.3
 
@@ -50,47 +48,25 @@ community.freepbx.org
 feeds.feedburner.com
 
 # Google
-broadent.vo.llnwd.net
-chatenabled.mail.google.com
-code.google.com
-csi.gstatic.com
-
-gmail.com
-google-analytics.com
-intermrkts.vo.llnwd.net
-nt3.ggpht.com
-pagead.l.google.com
-partnerad.l.google.com
-safebrowsing.clients.google.com
-talk.l.google.com
-talkgadget.google.com
-talkx.l.google.com
-video-stats.video.google.com
-www-google-analytics.l.google.com
-youtu.be
-youtube.com
-youtube-ui.l.google.com
-
-#.android.com
-#omahaproxy.appspot.com
-#gmail.com
-#.clients.google.com
+.android.com
+.gmail.com
 .google.com
-#feeds.feedburner.com
-#.l.google.com
-#.google-analytics.com
+.clients.google.com
+.l.google.com
+.mail.google.com
 .googleapis.com
+.google-analytics.com
 # .googleusercontent.com # This domain are used for malware distribution
-#.googlezip.net
-#.gstatic.com
-#.ggpht.com
-gvt1.com
+.ggpht.com
+.googlezip.net
+.gstatic.com
 .gvt1.com
-gvt2.com
 .gvt2.com
-gvt3.com
 .gvt3.com
-#.youtube.com
+.vo.llnwd.net
+.video.google.com
+.youtu.be
+.youtube.com
 
 # imgur
 #imgur.com
@@ -99,6 +75,7 @@ gvt3.com
 www.msftncsi.com # Microsoft Connectivity Check
 
 login.live.com # Azure Active Directory
+
 loginmicrosoftonline.com # Microsoft Azure Active Directory
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
@@ -119,31 +96,32 @@ download.proxmox.com
 enterprise.proxmox.com
 
 # Samsung Mobile Phones
-.android.com
-bldr.mkt.samsung.com
-channelusa.samsung.com
-eu.business.samsung.com
-gld.samsungosp.com
-insights.samsung.com
-lp.apac.business.samsung.com
-lp.europe.business.samsung.com
-lp.smartbusiness.samsung.com
+## GeoIP Blocking Galaxy Store No Updates are Downloading
+# .android.com
+# bldr.mkt.samsung.com
+# channelusa.samsung.com
+# eu.business.samsung.com
+# gld.samsungosp.com
+# insights.samsung.com
+# lp.apac.business.samsung.com
+# lp.europe.business.samsung.com
+# lp.smartbusiness.samsung.com
 # .samsung.com
-.samsung.cn
-.samsungapps.com
-lcprd1.samsungcloudsolution.net
-.gw.samsungapps.com
-eu2-scloud-proxy.ssp.samsungosp.com
-nmetrics.samsung.com
+# .samsung.cn
+# .samsungapps.com
+# lcprd1.samsungcloudsolution.net
+# .gw.samsungapps.com
+# eu2-scloud-proxy.ssp.samsungosp.com
+# nmetrics.samsung.com
 #.samsungosp.com
-.samqaicongen.com
-.s.llnwi.net
-.vo.llnwd.net
-.samsungrs.com
-.visionobjects.com
-.ospserver.net
-.clients.google.com
-.gstatic.com
+# .samqaicongen.com
+# .s.llnwi.net
+# .vo.llnwd.net
+# .samsungrs.com
+# .visionobjects.com
+# .ospserver.net
+# .clients.google.com
+# .gstatic.com
 
 # Sonarr
 .sonarr.tv
