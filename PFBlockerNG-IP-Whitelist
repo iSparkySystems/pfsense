@@ -1,11 +1,3 @@
-# Android Phones
-213.71.30.137 # Play Store
-
-# Galaxy Store Testing
-52.209.145.70 # fe-pew1-ext-s4store-elb-729021174.eu-west-1.elb.amazonaws.com
-13.126.211.240 # sspapi-prd.samsungrs.com
-41.63.66.21 # samsapps.s.llnwi.net
-
 # Blocklists blocked by GeoIP
 185.21.103.31 # Blocklist DE
 
@@ -15,9 +7,6 @@
 
 # Google
 142.250.27.108 # smtp.gmail.com
-
-# imgur
-151.101.12.193 # imgur
 
 # Pandle
 167.99.81.131 # Pandle Login
