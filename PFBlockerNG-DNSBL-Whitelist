@@ -47,46 +47,25 @@ github.com
 .freepbx.org
 .sangoma.net
 community.freepbx.org
+feeds.feedburner.com
 
 # Google
-androidtvwatsonfe-pa.googleapis.com
 broadent.vo.llnwd.net
 chatenabled.mail.google.com
-clientmetrics-pa.googleapis.com
 code.google.com
-crashlytics2.l.google.com
-crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
-desktop.google.com
-dl.google.com
-dl-ssl.google.com
-drive.google.com
-id.google.com
-firebaselogging.googleapis.com
-fundingchoices.google.com
+
 gmail.com
-gmail.google.com
-google.com
 google-analytics.com
-images.google.com
 intermrkts.vo.llnwd.net
-mail.google.com
-mtalk.google.com
-music.google.com
-news.google.com
 nt3.ggpht.com
 pagead.l.google.com
 partnerad.l.google.com
-picasaweb.google.com
-safebrowsing-cache.google.com
 safebrowsing.clients.google.com
-talk.google.com
 talk.l.google.com
 talkgadget.google.com
 talkx.l.google.com
-video.google.com
 video-stats.video.google.com
-wave.google.com
 www-google-analytics.l.google.com
 youtu.be
 youtube.com
@@ -96,11 +75,11 @@ youtube-ui.l.google.com
 #omahaproxy.appspot.com
 #gmail.com
 #.clients.google.com
-#.google.com
+.google.com
 #feeds.feedburner.com
 #.l.google.com
 #.google-analytics.com
-#.googleapis.com
+.googleapis.com
 # .googleusercontent.com # This domain are used for malware distribution
 #.googlezip.net
 #.gstatic.com
@@ -152,7 +131,7 @@ lp.smartbusiness.samsung.com
 # .samsung.com
 .samsung.cn
 .samsungapps.com
-.app-measurement.com
+lcprd1.samsungcloudsolution.net
 .gw.samsungapps.com
 eu2-scloud-proxy.ssp.samsungosp.com
 nmetrics.samsung.com
