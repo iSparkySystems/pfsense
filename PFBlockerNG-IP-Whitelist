@@ -1,6 +1,3 @@
-# Blocklists blocked by GeoIP
-185.21.103.31 # Blocklist DE
-
 # FreePBX
 199.102.239.57 # mirrorlist.sangoma.net
 199.102.239.92 # FreePBX Forums
@@ -24,4 +21,3 @@
 # TWT 
 172.16.181.6 # TWT NiVision
 196.50.240.13 # TWT VPN
-
