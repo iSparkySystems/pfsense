@@ -1,9 +1,0 @@
-# Single IP
-146.64.58.41 tick.meraka.csir.co.za
-146.64.8.7 tock.meraka.csir.co.za
-196.4.160.4 ntp.is.co.za
-196.25.1.1 igubu.saix.net
-
-# Pool
-za.pool.ntp.org
-0.pfsense.pool.ntp.org
