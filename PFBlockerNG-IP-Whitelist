@@ -18,6 +18,9 @@
 79.133.36.252 # Proxmox Wiki
 79.133.36.245 # Proxmox Forum
 
+# Samsung
+93.184.221.133 # Galaxy Store App Updates
+
 # TWT 
 172.16.181.6 # TWT NiVision
 196.50.240.13 # TWT VPN
