@@ -4,6 +4,7 @@
 
 # Google
 142.250.27.108 # smtp.gmail.com
+108.177.119.28 # smtp-relay.gmail.com
 
 # Pandle
 167.99.81.131 # Pandle Login
