@@ -1,11 +1,5 @@
 # DNSBL Whitelist
 
-# TWT VPN
-vpn.tiauto.co.za
-.tiauto.co.za
-.tiautobrands.co.za
-.tiautoinvestments.co.za
-
 # Atera
 app.atera.com
 agent-api.atera.com
@@ -20,6 +14,7 @@ s3.amazonaws.com
 
 # Blocklists
 lists.blocklist.de
+www.blocklist.de
 www.darklist.de
 
 # Cannon Printers
@@ -139,6 +134,12 @@ pixel-static.spotify.com
 pixel.spotify.com
 .spotify.com
 .wg.spotify.com
+
+# TWT VPN
+vpn.tiauto.co.za
+.tiauto.co.za
+.tiautobrands.co.za
+.tiautoinvestments.co.za
 
 # Ubiquity
 0.ubnt.pool.ntp.org
