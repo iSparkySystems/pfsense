@@ -65,6 +65,8 @@ feeds.feedburner.com
 #imgur.com
 
 # Microsoft
+.edgecast.com # Microsoft Content Delivery Network
+
 www.msftncsi.com # Microsoft Connectivity Check
 
 login.live.com # Azure Active Directory
