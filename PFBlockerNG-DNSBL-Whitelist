@@ -11,6 +11,7 @@ atera-agent-api-eu.westeurope.cloudapp.azure.com
 s3.amazonaws.com
 
 # Blocklists
+bitbucket.org
 lists.blocklist.de
 www.blocklist.de
 www.darklist.de
