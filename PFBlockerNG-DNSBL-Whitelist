@@ -12,6 +12,8 @@ s3.amazonaws.com
 
 # Blocklists
 bitbucket.org
+.abuse.ch
+.sans.edu
 lists.blocklist.de
 www.blocklist.de
 www.darklist.de
@@ -44,7 +46,28 @@ feeds.feedburner.com
 # Google
 .android.com
 .gmail.com
-.google.com
+# Loads of unwanted subdomains open on google.com
+# goole.com
+
+ampcid.google.com
+chatenabled.mail.google.com
+dl.google.com
+dl-ssl.google.com
+desktop.google.com
+drive.google.com
+gmail.google.com
+id.google.com
+images.google.com
+mail.google.com
+safebrowsing-cache.google.com
+safebrowsing.clients.google.com
+talk.google.com
+talk.l.google.com
+talkgadget.google.com
+video.google.com
+video-stats.video.google.com
+youtube-ui.l.google.com
+
 .clients.google.com
 .l.google.com
 .mail.google.com
