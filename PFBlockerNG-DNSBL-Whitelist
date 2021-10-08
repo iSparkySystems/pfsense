@@ -7,6 +7,9 @@ atera-agent-heartbeat.servicebus.windows.net
 atera-agent-api-eu.westeurope.cloudapp.azure.com
 .atera.com 
 
+# AnyDesk
+.anydesk.com
+
 # Amazon
 s3.amazonaws.com
 
