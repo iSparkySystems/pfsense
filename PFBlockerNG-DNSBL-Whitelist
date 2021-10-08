@@ -49,6 +49,7 @@ feeds.feedburner.com
 # Loads of unwanted subdomains open on google.com
 # goole.com
 
+admin.google.com
 ampcid.google.com
 chatenabled.mail.google.com
 dl.google.com
