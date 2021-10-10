@@ -158,7 +158,8 @@ enterprise.proxmox.com
 # Splashtop
 .splashtop.com
 .api.splashtop.com
-
+st2-v3-dc.splashtop.com
+  
 # Spotify
 adeventtracker.spotify.com
 pixel-static.spotify.com
