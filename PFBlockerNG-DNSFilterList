@@ -1,4 +1,7 @@
 # Suspicious List
+https://blocklist.greensnow.co/greensnow.txt
+http://danger.rulez.sk/projects/bruteforceblocker/blist.php
+https://lists.blocklist.de/lists/all.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
@@ -7,6 +10,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://someonewhocares.org/hosts/zero/hosts
+https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
 https://v.firebog.net/hosts/neohostsbasic.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://winhelp2002.mvps.org/hosts.txt
