@@ -94,11 +94,9 @@ youtube-ui.l.google.com
 
 # Microsoft
 .edgecast.com # Microsoft Content Delivery Network
-
 www.msftncsi.com # Microsoft Connectivity Check
-
+www.msftconnecttest.com
 login.live.com # Azure Active Directory
-
 loginmicrosoftonline.com # Microsoft Azure Active Directory
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
