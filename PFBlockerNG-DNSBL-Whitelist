@@ -1,6 +1,6 @@
 # Atera
-app.atera.com
-agent-api.atera.com
+# app.atera.com
+# agent-api.atera.com
 agentsapi.trafficmanager.net
 atera.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
@@ -14,12 +14,12 @@ atera-agent-api-eu.westeurope.cloudapp.azure.com
 s3.amazonaws.com
 
 # Blocklists
-bitbucket.org
+.bitbucket.org
 .abuse.ch
 .sans.edu
-lists.blocklist.de
-www.blocklist.de
-www.darklist.de
+# lists.blocklist.de
+.blocklist.de
+.darklist.de
 
 # Cannon Printers
 gdlp01.c-wss.com
@@ -37,24 +37,20 @@ ftp.debian.org
 security.debian.org
 
 # Github
-github.com
 .github.com
 
 # FreePBX
 .freepbx.org
 .sangoma.net
-community.freepbx.org
 feeds.feedburner.com
 
 # Google
 .android.com
 .gmail.com
-# Loads of unwanted subdomains open on google.com
-# goole.com
-
 admin.google.com
 ampcid.google.com
 chatenabled.mail.google.com
+.clients.google.com
 dl.google.com
 dl-ssl.google.com
 desktop.google.com
@@ -72,7 +68,6 @@ video.google.com
 video-stats.video.google.com
 youtube-ui.l.google.com
 
-.clients.google.com
 .l.google.com
 .mail.google.com
 .googleapis.com
@@ -154,14 +149,10 @@ enterprise.proxmox.com
 .sonarr.tv
 
 # Splashtop
-.splashtop.com
 .api.splashtop.com
-st2-v3-dc.splashtop.com
+.splashtop.com
   
 # Spotify
-adeventtracker.spotify.com
-pixel-static.spotify.com
-pixel.spotify.com
 .spotify.com
 .wg.spotify.com
 
