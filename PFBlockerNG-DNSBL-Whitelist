@@ -27,6 +27,9 @@ lists.blocklist.de
 # https://firebog.net/
 # https://github.com/EnergizedProtection/block
 
+# For White List
+https://github.com/anudeepND/whitelist/blob/master/domains/whitelist.txt
+
 # Cannon Printers
 gdlp01.c-wss.com
 
@@ -55,6 +58,8 @@ feeds.feedburner.com
 # Google
 smtp.gmail.com
 smtp-relay.gmail.com
+
+0.client-channel.google.com
 
 # .android.com
 # .gmail.com
