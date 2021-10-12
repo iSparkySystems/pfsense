@@ -5,7 +5,8 @@ agentsapi.trafficmanager.net
 atera.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
 atera-agent-api-eu.westeurope.cloudapp.azure.com
-.atera.com 
+ec2-13-232-67-210.ap-south-1.compute.amazonaws.com
+.atera.com
 
 # AnyDesk
 .anydesk.com
