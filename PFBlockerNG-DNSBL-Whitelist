@@ -49,9 +49,13 @@ security.debian.org
 # FreePBX
 .freepbx.org
 .sangoma.net
+mirrorlist.sangoma.net
 feeds.feedburner.com
 
 # Google
+smtp.gmail.com
+smtp-relay.gmail.com
+
 # .android.com
 # .gmail.com
 # admin.google.com
