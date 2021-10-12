@@ -52,47 +52,46 @@ security.debian.org
 feeds.feedburner.com
 
 # Google
-.android.com
-.gmail.com
-admin.google.com
-ampcid.google.com
-chatenabled.mail.google.com
-.clients.google.com
-dl.google.com
-dl-ssl.google.com
-desktop.google.com
-drive.google.com
-gmail.google.com
-id.google.com
-images.google.com
-mail.google.com
-safebrowsing-cache.google.com
-safebrowsing.clients.google.com
-talk.google.com
-talk.l.google.com
-talkgadget.google.com
-video.google.com
-video-stats.video.google.com
-youtube-ui.l.google.com
-
-.l.google.com
-.mail.google.com
-.googleapis.com
-.google-analytics.com
+# .android.com
+# .gmail.com
+# admin.google.com
+# ampcid.google.com
+# chatenabled.mail.google.com
+# .clients.google.com
+# dl.google.com
+# dl-ssl.google.com
+# desktop.google.com
+# drive.google.com
+# gmail.google.com
+# id.google.com
+# images.google.com
+# mail.google.com
+# safebrowsing-cache.google.com
+# safebrowsing.clients.google.com
+# talk.google.com
+# talk.l.google.com
+# talkgadget.google.com
+# video.google.com
+# video-stats.video.google.com
+# youtube-ui.l.google.com
+# .l.google.com
+# .mail.google.com
+# .googleapis.com
+# .google-analytics.com
 # .googleusercontent.com # This domain are used for malware distribution
-.ggpht.com
-.googlezip.net
-.gstatic.com
-.gvt1.com
-.gvt2.com
-.gvt3.com
-.vo.llnwd.net
-.video.google.com
-.youtu.be
-.youtube.com
+# .ggpht.com
+# .googlezip.net
+# .gstatic.com
+# .gvt1.com
+# .gvt2.com
+# .gvt3.com
+# .vo.llnwd.net
+# .video.google.com
+# .youtu.be
+# .youtube.com
 
 # imgur
-#imgur.com
+# imgur.com
 
 # Microsoft
 .edgecast.com # Microsoft Content Delivery Network
@@ -125,7 +124,6 @@ enterprise.proxmox.com
 .reddit.com
 
 # Samsung Mobile Phones
-## GeoIP Blocking Galaxy Store No Updates are Downloading with total Asia block both ways
 # .android.com
 # bldr.mkt.samsung.com
 # channelusa.samsung.com
