@@ -9,6 +9,8 @@ atera-agent-api-eu.westeurope.cloudapp.azure.com
 
 # AnyDesk
 .anydesk.com
+relay-8fa22233.net.anydesk.com
+relay-5eb344b6.net.anydesk.com
 
 # Amazon
 s3.amazonaws.com
@@ -27,6 +29,7 @@ gdlp01.c-wss.com
 # Cloudflare
 1.1.1.1 # Pure DNS
 1.0.0.1
+one.one.one.one
 1.1.1.2 # No Malware DNS
 1.0.0.2
 1.1.1.3 # No Malware or Adult Material DNS
