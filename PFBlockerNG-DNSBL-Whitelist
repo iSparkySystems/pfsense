@@ -23,9 +23,6 @@ lists.blocklist.de
 .blocklist.de
 .darklist.de
 
-# For White List
-# https://github.com/anudeepND/whitelist/blob/master/domains/whitelist.txt
-
 # Cannon Printers
 gdlp01.c-wss.com
 
@@ -52,51 +49,18 @@ mirrorlist.sangoma.net
 feeds.feedburner.com
 
 # Google
+ampcid.google.com
+dl.google.com
+dl-ssl.google.com
+drive.google.com
+id.google.com
+s0-2mdn-net.l.google.com
 smtp.gmail.com
 smtp-relay.gmail.com
-
-0.client-channel.google.com
-
-# .android.com
-# .gmail.com
-# admin.google.com
-# ampcid.google.com
-# chatenabled.mail.google.com
-# .clients.google.com
-# dl.google.com
-# dl-ssl.google.com
-# desktop.google.com
-# drive.google.com
-# gmail.google.com
-# id.google.com
-# images.google.com
-# mail.google.com
-# safebrowsing-cache.google.com
-# safebrowsing.clients.google.com
-# talk.google.com
-# talk.l.google.com
-# talkgadget.google.com
-# video.google.com
-# video-stats.video.google.com
-# youtube-ui.l.google.com
-# .l.google.com
-# .mail.google.com
-# .googleapis.com
-# .google-analytics.com
-# .googleusercontent.com # This domain are used for malware distribution
-# .ggpht.com
-# .googlezip.net
-# .gstatic.com
-# .gvt1.com
-# .gvt2.com
-# .gvt3.com
-# .vo.llnwd.net
-# .video.google.com
-# .youtu.be
-# .youtube.com
+video-stats.video.google.com
 
 # imgur
-# imgur.com
+imgur.com
 
 # Microsoft
 .edgecast.com # Microsoft Content Delivery Network
@@ -116,7 +80,7 @@ upload2.fp.measure.office.com
 # Plex
 .chtbl.com
 .gravatar.com
-.plex.tv
+# .plex.tv
 .plexapp.com
 .thetvdb.com
 .themoviedb.com
@@ -128,33 +92,6 @@ enterprise.proxmox.com
 # Reddit
 .reddit.com
 
-# Samsung Mobile Phones
-# .android.com
-# bldr.mkt.samsung.com
-# channelusa.samsung.com
-# eu.business.samsung.com
-# gld.samsungosp.com
-# insights.samsung.com
-# lp.apac.business.samsung.com
-# lp.europe.business.samsung.com
-# lp.smartbusiness.samsung.com
-# .samsung.com
-# .samsung.cn
-# .samsungapps.com
-# lcprd1.samsungcloudsolution.net
-# .gw.samsungapps.com
-# eu2-scloud-proxy.ssp.samsungosp.com
-# nmetrics.samsung.com
-#.samsungosp.com
-# .samqaicongen.com
-# .s.llnwi.net
-# .vo.llnwd.net
-# .samsungrs.com
-# .visionobjects.com
-# .ospserver.net
-# .clients.google.com
-# .gstatic.com
-
 # Sonarr
 .sonarr.tv
 
@@ -163,8 +100,8 @@ enterprise.proxmox.com
 .splashtop.com
   
 # Spotify
-.spotify.com
-.wg.spotify.com
+pixel.spotify.com
+pixel-static.spotify.com
 
 # TWT VPN
 vpn.tiauto.co.za
