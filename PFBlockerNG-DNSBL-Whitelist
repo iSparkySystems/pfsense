@@ -1,6 +1,6 @@
 # Atera
-# app.atera.com
-# agent-api.atera.com
+app.atera.com
+agent-api.atera.com
 agentsapi.trafficmanager.net
 atera.trafficmanager.net
 atera-agent-heartbeat.servicebus.windows.net
@@ -19,9 +19,12 @@ s3.amazonaws.com
 .bitbucket.org
 .abuse.ch
 .sans.edu
-# lists.blocklist.de
+lists.blocklist.de
 .blocklist.de
 .darklist.de
+
+# For Consolidates Block List
+# https://firebog.net/
 
 # Cannon Printers
 gdlp01.c-wss.com
