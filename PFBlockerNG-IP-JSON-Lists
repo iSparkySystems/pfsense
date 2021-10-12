@@ -6,3 +6,6 @@ https://endpoints.office.com/endpoints/worldwide?noipv6&ClientRequestId=b10c5ed1
 
 # Amazon AWS List
 https://ip-ranges.amazonaws.com/ip-ranges.json
+
+# AnuDeeoWhitelist
+https://github.com/anudeepND/whitelist/blob/master/domains/whitelist.txt
