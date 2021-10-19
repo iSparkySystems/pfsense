@@ -50,26 +50,44 @@ feeds.feedburner.com
 
 # Google
 ampcid.google.com
+appspot-preview.l.google.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
 dl.google.com
 dl-ssl.google.com
 drive.google.com
 id.google.com
+redirector.googlevideo.com
 s0-2mdn-net.l.google.com
+s.ytimg.com
+s.youtube.com
+s2.youtube.com
 smtp.gmail.com
 smtp-relay.gmail.com
+video-stats.l.google.com
 video-stats.video.google.com
+yt3.ggpht.com
+youtu.be
+youtube-nocookie.com
+www.googleapis.com
+www.youtube-nocookie.com
 
 # imgur
 imgur.com
 
 # Microsoft
+continuum.dds.microsoft.com
 .edgecast.com # Microsoft Content Delivery Network
 www.msftncsi.com # Microsoft Connectivity Check
+msftncsi.com
 www.msftconnecttest.com
 login.live.com # Azure Active Directory
 loginmicrosoftonline.com # Microsoft Azure Active Directory
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
+
+# Nvidea
+gfwsl.geforce.com
 
 # Pandle
 .pandle.com
@@ -78,9 +96,26 @@ upload2.fp.measure.office.com
 .pi-hole.net
 
 # Plex
+o1.email.plex.tv
+o2.sg0.plex.tv
 .chtbl.com
 .gravatar.com
+meta-db-worker02.pop.ric.plex.bz
+meta.plex.bz
+meta.plex.tv
+my.plexapp.com
+nine.plugins.plexapp.com
+node.plexapp.com
+proxy.plex.bz
+proxy.plex.tv
+proxy02.pop.ord.plex.bz
+pubsub.plex.bz
+pubsub.plex.tv
 # .plex.tv
+staging.plex.tv
+status.plex.tv
+tvdb2.plex.tv
+tvthemes.plexapp.com
 .plexapp.com
 .thetvdb.com
 .themoviedb.com
@@ -93,6 +128,8 @@ enterprise.proxmox.com
 .reddit.com
 
 # Sonarr
+services.sonarr.tv
+skyhook.sonarr.tv
 .sonarr.tv
 
 # Splashtop
@@ -102,6 +139,7 @@ enterprise.proxmox.com
 # Spotify
 pixel.spotify.com
 pixel-static.spotify.com
+spclient.wg.spotify.com
 
 # TWT VPN
 vpn.tiauto.co.za
