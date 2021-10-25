@@ -1,0 +1,15 @@
+server:
+    access-control-view: KM/24 bypass
+    access-control-view: LAN/24 dnsbl
+    access-control-view: IOT/24 dnsbl
+    access-control-view: ISPS/24 dnsbl
+view:
+    name: "bypass"
+    view-first: yes
+view:
+    name: "dnsbl"
+    view-first: yes
+    local-data: "www.google.com 60 IN A 216.239.38.120"
+    local-data: "www.youtube.com 60 IN A 216.239.38.119"
+    local-data: "www.bing.com 60 IN A 204.79.197.220"
+    local-data: "duckduckgo.com 60 IN A 107.20.240.232"
