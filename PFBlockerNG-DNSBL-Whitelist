@@ -13,7 +13,10 @@ ec2-13-232-67-210.ap-south-1.compute.amazonaws.com
 .net.anydesk.com
 
 # Amazon
-s3.amazonaws.com
+.amazonaws.com
+
+# Auslogics
+.auslogics.com
 
 # Blocklists
 .bitbucket.org
@@ -26,6 +29,12 @@ lists.blocklist.de
 # Cannon Printers
 gdlp01.c-wss.com
 
+# Clear OS
+.clearos.com
+
+# ClearScore
+email.clearscore.co.za
+
 # Cloudflare
 1.1.1.1 # Pure DNS
 1.0.0.1
@@ -36,8 +45,7 @@ one.one.one.one
 1.0.0.3
 
 # Debian
-ftp.debian.org
-security.debian.org
+.debian.org
 
 # Github
 .github.com
@@ -49,24 +57,18 @@ mirrorlist.sangoma.net
 feeds.feedburner.com
 
 # Google
-ampcid.google.com
-appspot-preview.l.google.com
-connectivitycheck.gstatic.com
-connectivitycheck.android.com
-dl.google.com
-dl-ssl.google.com
-drive.google.com
-id.google.com
-redirector.googlevideo.com
-s0-2mdn-net.l.google.com
-s.ytimg.com
-s.youtube.com
-s2.youtube.com
-smtp.gmail.com
-smtp-relay.gmail.com
-video-stats.l.google.com
-video-stats.video.google.com
-yt3.ggpht.com
+.googleadservices.com
+.google.com
+-preview.l.google.com
+.gstatic.com
+.android.com
+.googlevideo.com
+.l.google.com
+.ytimg.com
+.youtube.com
+.gmail.com
+.video.google.com
+.ggpht.com
 youtu.be
 youtube-nocookie.com
 www.googleapis.com
@@ -74,6 +76,9 @@ www.youtube-nocookie.com
 
 # imgur
 imgur.com
+
+# Medittiranian Dish
+trk.klclick3.com
 
 # Microsoft
 continuum.dds.microsoft.com
@@ -111,7 +116,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
-# .plex.tv
+.plex.tv
 staging.plex.tv
 status.plex.tv
 tvdb2.plex.tv
@@ -128,8 +133,6 @@ enterprise.proxmox.com
 .reddit.com
 
 # Sonarr
-services.sonarr.tv
-skyhook.sonarr.tv
 .sonarr.tv
 
 # Splashtop
@@ -141,6 +144,11 @@ pixel.spotify.com
 pixel-static.spotify.com
 spclient.wg.spotify.com
 
+# Torrents
+thepiratebay.org
+www.1337x.to
+rarbgtor.org
+
 # TWT VPN
 vpn.tiauto.co.za
 .tiauto.co.za
@@ -148,7 +156,9 @@ vpn.tiauto.co.za
 .tiautoinvestments.co.za
 
 # Ubuntu
-archive.ubuntu.com
+.archive.ubuntu.com
+.ubuntu.com
+.canonical.com
 
 # Ubiquity
 0.ubnt.pool.ntp.org
