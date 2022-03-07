@@ -25,6 +25,7 @@ ec2-13-232-67-210.ap-south-1.compute.amazonaws.com
 lists.blocklist.de
 .blocklist.de
 .darklist.de
+.kriskintel.com
 
 # Cannon Printers
 gdlp01.c-wss.com
@@ -34,6 +35,9 @@ gdlp01.c-wss.com
 
 # ClearScore
 email.clearscore.co.za
+
+# Clipgrab
+.clipgrab.de
 
 # Cloudflare
 1.1.1.1 # Pure DNS
@@ -77,7 +81,7 @@ www.youtube-nocookie.com
 # imgur
 imgur.com
 
-# Medittiranian Dish
+# Mediterranean Dish
 trk.klclick3.com
 
 # Microsoft
@@ -148,6 +152,8 @@ spclient.wg.spotify.com
 thepiratebay.org
 www.1337x.to
 rarbgtor.org
+rarbg.to
+trakt.tv
 
 # TWT VPN
 vpn.tiauto.co.za
@@ -157,14 +163,20 @@ vpn.tiauto.co.za
 
 # Ubuntu
 .archive.ubuntu.com
+us.archive.ubuntu.com
 .ubuntu.com
 .canonical.com
+banjo.canonical.com
+kazooie.canonical.com
 
 # Ubiquity
 0.ubnt.pool.ntp.org
 1.ubnt.pool.ntp.org
 2.ubnt.pool.ntp.org
 3.ubnt.pool.ntp.org
+
+# Wallpapers
+.wallpaperaccess.com
 
 # Whatsapp
 .whatsapp.com
