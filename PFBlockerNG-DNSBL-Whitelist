@@ -66,6 +66,8 @@ feeds.feedburner.com
 -preview.l.google.com
 .gstatic.com
 .android.com
+.googleapis.com # Google Fonts
+.fonts.googleapis.com # Google Fonts
 .googlevideo.com
 .l.google.com
 .ytimg.com
