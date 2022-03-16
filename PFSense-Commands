@@ -1,2 +1,0 @@
-# Update Maxmind DB on PFSense via Shell
-php /usr/local/www/pfblockerng/pfblockerng.php dc
