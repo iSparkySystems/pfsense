@@ -1,13 +1,3 @@
-# Atera
-app.atera.com
-agent-api.atera.com
-agentsapi.trafficmanager.net
-atera.trafficmanager.net
-atera-agent-heartbeat.servicebus.windows.net
-atera-agent-api-eu.westeurope.cloudapp.azure.com
-ec2-13-232-67-210.ap-south-1.compute.amazonaws.com
-.atera.com
-
 # AnyDesk
 .anydesk.com
 .net.anydesk.com
@@ -22,7 +12,6 @@ ec2-13-232-67-210.ap-south-1.compute.amazonaws.com
 .bitbucket.org
 .abuse.ch
 .sans.edu
-lists.blocklist.de
 .blocklist.de
 .darklist.de
 .kriskintel.com
@@ -52,6 +41,7 @@ one.one.one.one
 .debian.org
 
 # Github
+github.com
 .github.com
 
 # FreePBX
@@ -140,10 +130,6 @@ enterprise.proxmox.com
 
 # Sonarr
 .sonarr.tv
-
-# Splashtop
-.api.splashtop.com
-.splashtop.com
   
 # Spotify
 pixel.spotify.com
@@ -156,12 +142,9 @@ www.1337x.to
 rarbgtor.org
 rarbg.to
 trakt.tv
-
-# TWT VPN
-vpn.tiauto.co.za
-.tiauto.co.za
-.tiautobrands.co.za
-.tiautoinvestments.co.za
+tracker.coppersurfer.tk
+9.rarbg.to
+p4p.arenabg.com
 
 # Ubuntu
 .archive.ubuntu.com
