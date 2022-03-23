@@ -131,11 +131,12 @@ enterprise.proxmox.com
 .reddit.com
 
 # Samsung
+app-measurement.com
 .gw.samsungapps.com
+ureca.samsungapps.com
 eu-auth2.samsungosp.com
 sspapi-prd.samsungrs.com
 sdk.pushmessage.samsung.com
-ureca.samsungapps.com
 
 # Sonarr
 .sonarr.tv
