@@ -131,6 +131,7 @@ enterprise.proxmox.com
 # Samsung
 .gw.samsungapps.com
 eu-auth2.samsungosp.com
+sspapi-prd.samsungrs.com 
 
 # Sonarr
 .sonarr.tv
