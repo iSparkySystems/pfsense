@@ -2,6 +2,9 @@
 AS714 [ APPLE-ENGINEERING, US ]
 AS6185 [ APPLE-AUSTIN, US ]
 
+# Canonical Group / Ubuntu Updates
+AS41231 [ CANONICAL-AS, GB ]
+
 # Dropbox
 AS19679 [ DROPBOX, US ]
 
