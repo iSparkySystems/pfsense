@@ -133,6 +133,7 @@ enterprise.proxmox.com
 # Samsung
 app-measurement.com
 .gw.samsungapps.com
+.samsungapps.com
 ureca.samsungapps.com
 eu-auth2.samsungosp.com
 sspapi-prd.samsungrs.com
