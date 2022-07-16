@@ -2,6 +2,9 @@
 199.102.239.57 # mirrorlist.sangoma.net
 199.102.239.92 # FreePBX Forums
 
+# Github
+140.82.121.4 # Github.com
+
 # Google
 142.250.27.108 # smtp.gmail.com
 108.177.119.28 # smtp-relay.gmail.com
