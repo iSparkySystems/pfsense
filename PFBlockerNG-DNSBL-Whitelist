@@ -172,6 +172,10 @@ kazooie.canonical.com
 2.ubnt.pool.ntp.org
 3.ubnt.pool.ntp.org
 
+# UT1 Blocklist
+https://dsi.ut-capitole.fr
+ftp://ftp.ut-capitole.fr
+
 # Wallpapers
 .wallpaperaccess.com
 
