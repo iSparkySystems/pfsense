@@ -68,5 +68,7 @@ https://lists.blocklist.de/lists/sip.txt
 https://lists.blocklist.de/lists/ssh.txt
 https://lists.blocklist.de/lists/strongips.txt
 
-
+MyBlocklists
+https://github.com/iSparkySystems/pfsense/blob/main/PFBlockerNG-PBX-Blacklist
+https://github.com/iSparkySystems/pfsense/blob/main/PfBlockerNG-WordPress-Blacklist
 
