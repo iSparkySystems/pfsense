@@ -2,12 +2,6 @@
 .anydesk.com
 .net.anydesk.com
 
-# Amazon
-.amazonaws.com
-
-# Auslogics
-.auslogics.com
-
 # Blocklists
 .bitbucket.org
 .abuse.ch
@@ -22,12 +16,6 @@ gdlp01.c-wss.com
 # Clear OS
 .clearos.com
 
-# ClearScore
-email.clearscore.co.za
-
-# Clipgrab
-.clipgrab.de
-
 # Cloudflare
 1.1.1.1 # Pure DNS
 1.0.0.1
@@ -36,9 +24,6 @@ one.one.one.one
 1.0.0.2
 1.1.1.3 # No Malware or Adult Material DNS
 1.0.0.3
-
-# Debian
-.debian.org
 
 # Github
 github.com
@@ -73,12 +58,6 @@ youtube-nocookie.com
 www.googleapis.com
 www.youtube-nocookie.com
 
-# imgur
-imgur.com
-
-# Mediterranean Dish
-trk.klclick3.com
-
 # Microsoft
 continuum.dds.microsoft.com
 .edgecast.com # Microsoft Content Delivery Network
@@ -93,43 +72,9 @@ upload2.fp.measure.office.com
 # Nvidea
 gfwsl.geforce.com
 
-# Pandle
-.pandle.com
-
-# piHole
-.pi-hole.net
-
-# Plex
-o1.email.plex.tv
-o2.sg0.plex.tv
-.chtbl.com
-.gravatar.com
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
-my.plexapp.com
-nine.plugins.plexapp.com
-node.plexapp.com
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
-.plex.tv
-staging.plex.tv
-status.plex.tv
-tvdb2.plex.tv
-tvthemes.plexapp.com
-.plexapp.com
-.thetvdb.com
-.themoviedb.com
-
 # Proxmox
 download.proxmox.com
 enterprise.proxmox.com
-
-# Reddit
-.reddit.com
 
 # Samsung
 app-measurement.com
@@ -139,24 +84,11 @@ ureca.samsungapps.com
 eu-auth2.samsungosp.com
 sspapi-prd.samsungrs.com
 sdk.pushmessage.samsung.com
-
-# Sonarr
-.sonarr.tv
   
 # Spotify
 pixel.spotify.com
 pixel-static.spotify.com
 spclient.wg.spotify.com
-
-# Torrents
-thepiratebay.org
-www.1337x.to
-rarbgtor.org
-rarbg.to
-trakt.tv
-tracker.coppersurfer.tk
-9.rarbg.to
-p4p.arenabg.com
 
 # Ubuntu
 .archive.ubuntu.com
@@ -176,8 +108,8 @@ kazooie.canonical.com
 https://dsi.ut-capitole.fr
 ftp://ftp.ut-capitole.fr
 
-# Wallpapers
-.wallpaperaccess.com
-
 # Whatsapp
 .whatsapp.com
+
+# Zoom
+.zoom.us
