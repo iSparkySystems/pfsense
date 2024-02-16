@@ -17,28 +17,27 @@ gdlp01.c-wss.com
 .clearos.com
 
 # Cloudflare
-1.1.1.1 # Pure DNS
-1.0.0.1
-one.one.one.one
-1.1.1.2 # No Malware DNS
-1.0.0.2
 1.1.1.3 # No Malware or Adult Material DNS
 1.0.0.3
 
 # Github
 github.com
 .github.com
+.githubusercontent.com
 
 # FreePBX
 .freepbx.org
+mirror1.freepbx.org
+mirror2.freepbx.org
 .sangoma.net
-mirrorlist.sangoma.net
 feeds.feedburner.com
 
 # Google
-.googleadservices.com
 .google.com
--preview.l.google.com
+admin.google.com
+dl.google.com
+drive.google.com
+play.google.com
 .gstatic.com
 .android.com
 android.googleapis.com
@@ -49,12 +48,15 @@ googlevideo.com
 .googlevideo.com
 .l.google.com
 .ytimg.com
+youtube.com
+accounts.youtube.com
 .youtube.com
 .gmail.com
-.video.google.com
+video.google.com
 .ggpht.com
 youtu.be
 youtube-nocookie.com
+.googleapis.com
 www.googleapis.com
 www.youtube-nocookie.com
 
@@ -77,13 +79,13 @@ download.proxmox.com
 enterprise.proxmox.com
 
 # Samsung
-app-measurement.com
 .gw.samsungapps.com
-.samsungapps.com
-ureca.samsungapps.com
 eu-auth2.samsungosp.com
 sspapi-prd.samsungrs.com
 sdk.pushmessage.samsung.com
+ureca.samsungapps.com
+app-measurement.com
+tvx.adgrx.com # Samsung Smart TV App Store
   
 # Spotify
 pixel.spotify.com
@@ -91,11 +93,16 @@ pixel-static.spotify.com
 spclient.wg.spotify.com
 
 # Ubuntu
+archive.ubuntu.com
 .archive.ubuntu.com
 us.archive.ubuntu.com
 .ubuntu.com
+security.ubuntu.com
 .canonical.com
+actiontoad.canonical.com
+aerodent.canonical.com
 banjo.canonical.com
+ganondorf.canonical.com
 kazooie.canonical.com
 
 # Ubiquity
@@ -103,10 +110,6 @@ kazooie.canonical.com
 1.ubnt.pool.ntp.org
 2.ubnt.pool.ntp.org
 3.ubnt.pool.ntp.org
-
-# UT1 Blocklist
-https://dsi.ut-capitole.fr
-ftp://ftp.ut-capitole.fr
 
 # Whatsapp
 .whatsapp.com
