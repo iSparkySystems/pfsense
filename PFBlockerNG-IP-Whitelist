@@ -13,10 +13,6 @@
 93.184.221.240 # Windows Updates / Apps
 93.184.220.29
 
-# Pandle
-167.99.81.131 # Pandle Login
-35.199.18.18 # Pandle after login
-
 # NTP Pool
 41.223.244.123
 160.119.193.252
@@ -37,9 +33,6 @@
 79.133.36.252 # Proxmox Wiki
 79.133.36.245 # Proxmox Forum
 
-# RPort
-80.158.39.193
-
 # Samsung
 93.184.221.133 # Galaxy Store App Updates
 52.17.104.180
@@ -54,4 +47,8 @@
 52.5.216.117
 54.229.107.164
 34.254.255.236
+
+# Colprop/Natrent
+192.168.0.0/24
+192.168.2.0/24
 
